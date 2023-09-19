@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb3902d"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb3900f"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39005"
+  },
+  "cantidad_disponible": 10
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb3902e"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39010"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39006"
+  },
+  "cantidad_disponible": 5
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb3902f"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39011"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39007"
+  },
+  "cantidad_disponible": 8
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39030"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39012"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39008"
+  },
+  "cantidad_disponible": 12
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39031"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39013"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39009"
+  },
+  "cantidad_disponible": 7
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39032"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39014"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900a"
+  },
+  "cantidad_disponible": 15
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39033"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39015"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900b"
+  },
+  "cantidad_disponible": 9
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39034"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39016"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900c"
+  },
+  "cantidad_disponible": 11
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39035"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39017"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900d"
+  },
+  "cantidad_disponible": 6
+},
+{
+  "_id": {
+    "$oid": "6508f3a1ae75f7841cb39036"
+  },
+  "id_sucursal": {
+    "$oid": "6508ee32ae75f7841cb39018"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900e"
+  },
+  "cantidad_disponible": 14
+}]

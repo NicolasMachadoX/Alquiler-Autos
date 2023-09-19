@@ -1,0 +1,120 @@
+  [{
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb39005"
+    },
+    "marca": "Toyota",
+    "modelo": "Camry",
+    "Anio": 2022,
+    "tipo": "Sedán",
+    "capacidad": 5,
+    "precio_diario": 50,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb39006"
+    },
+    "marca": "Honda",
+    "modelo": "Civic",
+    "Anio": 2023,
+    "tipo": "Sedán",
+    "capacidad": 5,
+    "precio_diario": 55,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb39007"
+    },
+    "marca": "Ford",
+    "modelo": "Escape",
+    "Anio": 2022,
+    "tipo": "SUV",
+    "capacidad": 5,
+    "precio_diario": 60,
+    "estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb39008"
+    },
+    "marca": "Chevrolet",
+    "modelo": "Silverado",
+    "Anio": 2021,
+    "tipo": "Camioneta",
+    "capacidad": 4,
+    "precio_diario": 70,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb39009"
+    },
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "Anio": 2023,
+    "tipo": "Hatchback",
+    "capacidad": 4,
+    "precio_diario": 45,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb3900a"
+    },
+    "marca": "Nissan",
+    "modelo": "Altima",
+    "Anio": 2022,
+    "tipo": "Sedán",
+    "capacidad": 5,
+    "precio_diario": 55,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb3900b"
+    },
+    "marca": "Kia",
+    "modelo": "Sportage",
+    "Anio": 2021,
+    "tipo": "SUV",
+    "capacidad": 5,
+    "precio_diario": 65,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb3900c"
+    },
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "Anio": 2023,
+    "tipo": "Sedán",
+    "capacidad": 5,
+    "precio_diario": 60,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb3900d"
+    },
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "Anio": 2022,
+    "tipo": "SUV",
+    "capacidad": 5,
+    "precio_diario": 70,
+    "estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6508eb6eae75f7841cb3900e"
+    },
+    "marca": "Subaru",
+    "modelo": "Impreza",
+    "Anio": 2023,
+    "tipo": "Hatchback",
+    "capacidad": 4,
+    "precio_diario": 50,
+    "estado": true
+  }]

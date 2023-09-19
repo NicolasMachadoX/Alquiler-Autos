@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb3900f"
+  },
+  "nombre": "Sucursal Principal",
+  "direccion": "Calle 123, Ciudad A",
+  "telefono": "555-123-4567"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39010"
+  },
+  "nombre": "Sucursal Central",
+  "direccion": "Avenida Principal, Ciudad B",
+  "telefono": "555-234-5678"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39011"
+  },
+  "nombre": "Sucursal Norte",
+  "direccion": "Calle Central, Ciudad C",
+  "telefono": "555-345-6789"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39012"
+  },
+  "nombre": "Sucursal Este",
+  "direccion": "Calle 456, Ciudad D",
+  "telefono": "555-456-7890"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39013"
+  },
+  "nombre": "Sucursal Oeste",
+  "direccion": "Avenida Secundaria, Ciudad E",
+  "telefono": "555-567-8901"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39014"
+  },
+  "nombre": "Sucursal Sur",
+  "direccion": "Calle 789, Ciudad F",
+  "telefono": "555-678-9012"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39015"
+  },
+  "nombre": "Sucursal Premium",
+  "direccion": "Avenida Norte, Ciudad G",
+  "telefono": "555-789-0123"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39016"
+  },
+  "nombre": "Sucursal Exclusiva",
+  "direccion": "Calle 890, Ciudad H",
+  "telefono": "555-890-1234"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39017"
+  },
+  "nombre": "Sucursal VIP",
+  "direccion": "Avenida Sur, Ciudad I",
+  "telefono": "555-901-2345"
+},
+{
+  "_id": {
+    "$oid": "6508ee32ae75f7841cb39018"
+  },
+  "nombre": "Sucursal Selecta",
+  "direccion": "Calle 012, Ciudad J",
+  "telefono": "555-012-3456"
+}]

@@ -1,0 +1,110 @@
+  [{
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb39019"
+    },
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "DNI": "12345678",
+    "direccion": "Calle 123, Ciudad A",
+    "telefono": "555-123-4567",
+    "email": "juan.perez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb3901a"
+    },
+    "nombre": "María",
+    "apellido": "Gómez",
+    "DNI": "23456789",
+    "direccion": "Avenida Principal, Ciudad B",
+    "telefono": "555-234-5678",
+    "email": "maria.gomez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb3901b"
+    },
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "DNI": "34567890",
+    "direccion": "Calle Central, Ciudad C",
+    "telefono": "555-345-6789",
+    "email": "carlos.rodriguez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb3901c"
+    },
+    "nombre": "Ana",
+    "apellido": "López",
+    "DNI": "45678901",
+    "direccion": "Calle 456, Ciudad D",
+    "telefono": "555-456-7890",
+    "email": "ana.lopez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb3901d"
+    },
+    "nombre": "Pedro",
+    "apellido": "Sánchez",
+    "DNI": "56789012",
+    "direccion": "Avenida Secundaria, Ciudad E",
+    "telefono": "555-567-8901",
+    "email": "pedro.sanchez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb3901e"
+    },
+    "nombre": "Laura",
+    "apellido": "Martínez",
+    "DNI": "67890123",
+    "direccion": "Calle 789, Ciudad F",
+    "telefono": "555-678-9012",
+    "email": "laura.martinez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb3901f"
+    },
+    "nombre": "Miguel",
+    "apellido": "García",
+    "DNI": "78901234",
+    "direccion": "Avenida Norte, Ciudad G",
+    "telefono": "555-789-0123",
+    "email": "miguel.garcia@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb39020"
+    },
+    "nombre": "Carmen",
+    "apellido": "Díaz",
+    "DNI": "89012345",
+    "direccion": "Calle 890, Ciudad H",
+    "telefono": "555-890-1234",
+    "email": "carmen.diaz@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb39021"
+    },
+    "nombre": "Diego",
+    "apellido": "Hernández",
+    "DNI": "90123456",
+    "direccion": "Avenida Sur, Ciudad I",
+    "telefono": "555-901-2345",
+    "email": "diego.hernandez@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6508ef18ae75f7841cb39022"
+    },
+    "nombre": "Isabel",
+    "apellido": "Vargas",
+    "DNI": "01234567",
+    "direccion": "Calle 012, Ciudad J",
+    "telefono": "555-012-3456",
+    "email": "isabel.vargas@example.com"
+  }]

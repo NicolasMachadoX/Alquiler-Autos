@@ -2,7 +2,7 @@
 
 const getTotalAutosCadaSucursal = async (req,res) =>{
     try {
-        
+        res.json({msg:'funciono uwu'})
     } catch (error) {
      res.status(404).json({message:error});   
     }
@@ -12,7 +12,7 @@ const getTotalAutosCadaSucursal = async (req,res) =>{
 
 const getTotalAutosCadaSucursalDireccion = async (req,res) =>{
     try {
-        
+        res.json({msg:'funciono uwu'})  
     } catch (error) {
      res.status(404).json({message:error});   
     }

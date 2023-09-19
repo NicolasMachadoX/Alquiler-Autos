@@ -3,7 +3,7 @@ const {Router} = require('express');
 const router = Router();
 //requiero los controladores
 const { getAlquileresActivos, getDetalles5julio2023, getAlquileres, get5a7Julio,
-        getDetallesAlquilerID, getCostoTotalID } = require('../controllers/alquiler.controllers');
+        getDetallesAlquilerID, getCostoTotalID } = require('../controllers/alquiler.controllers.js');
 
 //defino las routas de cada controlador respectivo 
 router

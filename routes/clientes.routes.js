@@ -2,7 +2,7 @@
 const {Router} = require('express');
 const router = Router();
 //requiero los controladores
-const { getClientes, getClientesDNI, getClientesAlquilerMin1 } = require('../controllers/clientes.controllers');
+const { getClientes, getClientesDNI, getClientesAlquilerMin1 } = require('../controllers/clientes.controllers.js');
 
 //defino las routas de cada controlador respectivo 
 router
