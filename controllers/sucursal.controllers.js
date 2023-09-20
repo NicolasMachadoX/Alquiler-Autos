@@ -1,5 +1,6 @@
 
 
+//Esto debe ser hecho en sucursal-automovil
 const getTotalAutosCadaSucursal = async (req,res) =>{
     try {
         res.json({msg:'funciono uwu'})

@@ -21,10 +21,12 @@ const getClientesDNI = async (req,res) =>{
 }
 
 
+
+//Esto se hace en el archivo de la base de datos Alquiler
 const getClientesAlquilerMin1 = async (req,res) =>{
+    
     try {
-        const DNIesp = '12345678'
-        const clientes = await Clientes.find({DNI:DNIesp});
+        const clientes = await Clientes.find({DNI:true});
         res.json({data: clientes})
     } catch (error) {
      res.status(404).json({message:error});   

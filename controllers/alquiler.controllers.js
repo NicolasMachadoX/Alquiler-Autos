@@ -29,7 +29,8 @@ const getAlquileres = async (req,res) =>{
 
 const getAlquileresActivos = async (req,res) =>{
     try {
-        res.json({msg:'funciono uwu'})
+        const alquiler = await Alquiler.find({estado:"activo"});
+        res.json({data: alquiler})
         
     } catch (error) {
      res.status(404).json({message:error});   

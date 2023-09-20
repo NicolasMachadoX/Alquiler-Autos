@@ -2,7 +2,7 @@ const Automovil = require('../models/Automovil');
 
 const getAutomovilesDisponibles = async (req,res) =>{
     try {
-        const autos = await Automovil.find();
+        const autos = await Automovil.find({estado:true});
         res.json({data: autos})
     } catch (error) {
      res.status(404).json({message:error});   
