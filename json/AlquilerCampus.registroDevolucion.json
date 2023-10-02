@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39041"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39037"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffb"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_devuelto": 40,
+  "kilometraje_devuelto": 3000,
+  "monto_adicional": 20
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39042"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39038"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffc"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "combustible_devuelto": 50,
+  "kilometraje_devuelto": 3200,
+  "monto_adicional": 30
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39043"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39039"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffd"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "combustible_devuelto": 35,
+  "kilometraje_devuelto": 2800,
+  "monto_adicional": 15
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39044"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903a"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffe"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_devuelto": 45,
+  "kilometraje_devuelto": 3100,
+  "monto_adicional": 25
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39045"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903b"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38fff"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "combustible_devuelto": 55,
+  "kilometraje_devuelto": 3300,
+  "monto_adicional": 35
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39046"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903c"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39000"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "combustible_devuelto": 30,
+  "kilometraje_devuelto": 2600,
+  "monto_adicional": 10
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39047"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903d"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39001"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_devuelto": 42,
+  "kilometraje_devuelto": 3150,
+  "monto_adicional": 22
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39048"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903e"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39002"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "combustible_devuelto": 48,
+  "kilometraje_devuelto": 3250,
+  "monto_adicional": 28
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb39049"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903f"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39003"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "combustible_devuelto": 37,
+  "kilometraje_devuelto": 2700,
+  "monto_adicional": 17
+},
+{
+  "_id": {
+    "$oid": "6508f786ae75f7841cb3904a"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39040"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39004"
+  },
+  "fecha_devolucion": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_devuelto": 52,
+  "kilometraje_devuelto": 3200,
+  "monto_adicional": 32
+}]

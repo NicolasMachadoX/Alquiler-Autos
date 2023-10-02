@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb3904b"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39037"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffb"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_entregado": 45,
+  "kilometraje_entregado": 3100
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb3904c"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39038"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffc"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "combustible_entregado": 55,
+  "kilometraje_entregado": 3300
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb3904d"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39039"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffd"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "combustible_entregado": 35,
+  "kilometraje_entregado": 2800
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb3904e"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903a"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38ffe"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_entregado": 45,
+  "kilometraje_entregado": 3100
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb3904f"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903b"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb38fff"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "combustible_entregado": 55,
+  "kilometraje_entregado": 3300
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb39050"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903c"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39000"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "combustible_entregado": 35,
+  "kilometraje_entregado": 2800
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb39051"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903d"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39001"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_entregado": 45,
+  "kilometraje_entregado": 3100
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb39052"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903e"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39002"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "combustible_entregado": 55,
+  "kilometraje_entregado": 3300
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb39053"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb3903f"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39003"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "combustible_entregado": 35,
+  "kilometraje_entregado": 2800
+},
+{
+  "_id": {
+    "$oid": "6508f82eae75f7841cb39054"
+  },
+  "id_alquiler": {
+    "$oid": "6508f53aae75f7841cb39040"
+  },
+  "id_empleado": {
+    "$oid": "6508dd4cae75f7841cb39004"
+  },
+  "fecha_entrega": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "combustible_entregado": 45,
+  "kilometraje_entregado": 3100
+}]

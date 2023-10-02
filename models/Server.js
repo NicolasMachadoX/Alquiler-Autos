@@ -11,7 +11,8 @@ class Server{
         this.app = express();
         //Defino el valor del puerto usando las variables de entorno
         this.port = process.env.PORT;
-
+        
+        this.middlewares();
         //Creo un objeto en el que defino las rutas de cada collecion
         this.paths = {
 
@@ -31,7 +32,7 @@ class Server{
         //instancion los metodos del servidor
         this.routes();
 
-        this.middlewares();
+       
 
         this.ConnectionDB();
 
@@ -43,7 +44,7 @@ class Server{
     }
 
     middlewares(){
-
+        this.app.use(express.json());
 
     }
 

@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb39037"
+  },
+  "id_cliente": "6508ef18ae75f7841cb39019",
+  "id_automovil": "6508eb6eae75f7841cb39005",
+  "fecha_inicio": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "costo_total": 500,
+  "estado": "activo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb39038"
+  },
+  "id_cliente": "6508ef18ae75f7841cb3901a",
+  "id_automovil": "6508eb6eae75f7841cb39006",
+  "fecha_inicio": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "costo_total": 600,
+  "estado": "activo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb39039"
+  },
+  "id_cliente": "6508ef18ae75f7841cb3901b",
+  "id_automovil": "6508eb6eae75f7841cb39007",
+  "fecha_inicio": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "costo_total": 700,
+  "estado": "inactivo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb3903a"
+  },
+  "id_cliente": "6508ef18ae75f7841cb3901c",
+  "id_automovil": "6508eb6eae75f7841cb39008",
+  "fecha_inicio": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "costo_total": 550,
+  "estado": "activo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb3903b"
+  },
+  "id_cliente": "6508ef18ae75f7841cb3901d",
+  "id_automovil": "6508eb6eae75f7841cb39009",
+  "fecha_inicio": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "costo_total": 625,
+  "estado": "activo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb3903c"
+  },
+  "id_cliente": "6508ef18ae75f7841cb3901e",
+  "id_automovil": "6508eb6eae75f7841cb3900a",
+  "fecha_inicio": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "costo_total": 750,
+  "estado": "inactivo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb3903d"
+  },
+  "id_cliente": "6508ef18ae75f7841cb3901f",
+  "id_automovil": "6508eb6eae75f7841cb3900b",
+  "fecha_inicio": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "costo_total": 675,
+  "estado": "activo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb3903e"
+  },
+  "id_cliente": "6508ef18ae75f7841cb39020",
+  "id_automovil": "6508eb6eae75f7841cb3900c",
+  "fecha_inicio": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "costo_total": 720,
+  "estado": "activo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb3903f"
+  },
+  "id_cliente": "6508ef18ae75f7841cb39021",
+  "id_automovil": "6508eb6eae75f7841cb3900d",
+  "fecha_inicio": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-29T00:00:00.000Z"
+  },
+  "costo_total": 630,
+  "estado": "inactivo"
+},
+{
+  "_id": {
+    "$oid": "6508f53aae75f7841cb39040"
+  },
+  "id_cliente": "6508ef18ae75f7841cb39022",
+  "id_automovil": "6508eb6eae75f7841cb3900e",
+  "fecha_inicio": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "costo_total": 700,
+  "estado": "activo"
+}]

@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39023"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb39019"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39005"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39024"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb3901a"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39006"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39025"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb3901b"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39007"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39026"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb3901c"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39008"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39027"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb3901d"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb39009"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39028"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb3901e"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900a"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb39029"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb3901f"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900b"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb3902a"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb39020"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900c"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb3902b"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb39021"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900d"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "6508f06cae75f7841cb3902c"
+  },
+  "id_cliente": {
+    "$oid": "6508ef18ae75f7841cb39022"
+  },
+  "id_automovil": {
+    "$oid": "6508eb6eae75f7841cb3900e"
+  },
+  "fecha_reserva": {
+    "$date": "2023-09-19T00:50:52.048Z"
+  },
+  "fecha_inicio": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "fecha_fin": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "estado": "Reservado"
+}]
